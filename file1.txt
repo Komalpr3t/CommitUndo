@@ -1,4 +1,2 @@
 Line1 in file1.txt
 Line2 in file1.txt
-Line3 in file1.txt
-line 4 
